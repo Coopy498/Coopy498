@@ -48,8 +48,8 @@ Agile / SCRUM, Embedded Linux, GitHub Actions, Power BI, Azure DevOps
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YourCustomURL)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](linkedin.com/in/cooper-rey)  
+- [Email](mailto:rey.m.cooper@gmail.com)
 
 > “Code hard, play harder, swing smooth.”
 
