@@ -2,7 +2,7 @@
 
 🚀 Embedded Software Engineer | Aspiring Full-Stack Developer | Tech Enthusiast | Golfer
 
-Welcome to my GitHub! I'm currently an Embedded Systems Engineer working in the defense industry, where I focus on radar systems using C++ and Python. I'm transitioning into full-stack development to broaden my skill set and work on dynamic, user-focused applications.
+Welcome to my GitHub! I'm currently an Embedded Systems Engineer working in the defense industry, where I focus on embedded systems using C++ and Python. I'm transitioning into full-stack development to broaden my skill set and work on dynamic, user-focused applications.
 
 ---
 
